@@ -1,0 +1,19 @@
+#MODULO 1
+
+*Principios de Agilidade e Desenvolvimentode Software (CONCLUIDO)
+
+#MODULO 2
+
+*Linguagens para Dynamics: Domine o C# e Conheça JavaScript()
+
+#MODULO 3
+
+*Explorando JavaScript e principalmente C# na pratica ()
+
+#MODULO 4
+
+*Introdução a Microsoft Dynamics 365 CE e Ferramentas de Power Platform ()
+
+#MODULO 5
+
+*Desenvolvimento no Dynamics 365 CE com C# ()
